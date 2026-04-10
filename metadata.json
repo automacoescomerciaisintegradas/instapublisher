@@ -1,0 +1,5 @@
+{
+  "name": "InstaCarousel Publisher",
+  "description": "Automate Instagram carousel posts using the official Facebook Graph API.",
+  "requestFramePermissions": []
+}

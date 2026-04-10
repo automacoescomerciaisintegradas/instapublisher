@@ -1,0 +1,181 @@
+{
+  "id": "post_instagram",
+  "name": "Post Viral de Instagram",
+  "category": "social_media",
+  "description": "Estrutura de post/reels/carrossel de Instagram otimizado para alcance e engajamento",
+  "formatos": {
+    "carrossel": {
+      "descricao": "5-10 slides educativos/inspiracionais",
+      "ideal_para": "Conteúdo educativo, passo a passo, listas",
+      "metricas": "Alto save rate, alto tempo de tela"
+    },
+    "reels": {
+      "descricao": "Vídeo curto 15-90 segundos",
+      "ideal_para": "Alcance, novos seguidores, trends",
+      "metricas": "Alto reach, shares, views"
+    },
+    "foto_unica": {
+      "descricao": "Imagem impactante + legenda longa",
+      "ideal_para": "Storytelling, lifestyle, behind the scenes",
+      "metricas": "Alto engajamento de seguidores existentes"
+    },
+    "stories": {
+      "descricao": "Sequência de 3-10 stories",
+      "ideal_para": "Conexão diária, vendas diretas",
+      "metricas": "Respostas, cliques no link, retenção"
+    }
+  },
+  "ganchos_carrossel": {
+    "promessa": [
+      "Salve este post! 📌",
+      "Leia até o final →",
+      "Isso vai mudar como você vê {tema}",
+      "O guia definitivo de {tema}",
+      "Tudo que você precisa saber sobre {tema}"
+    ],
+    "curiosidade": [
+      "O segredo que ninguém te conta",
+      "Por que 95% erram em {tema}",
+      "O que {pessoa famosa} faz diferente",
+      "A verdade sobre {mito comum}"
+    ],
+    "lista": [
+      "7 formas de {resultado}",
+      "5 erros em {tema}",
+      "3 passos para {objetivo}",
+      "10 ferramentas para {área}"
+    ],
+    "transformacao": [
+      "Como fui de {ponto A} para {ponto B}",
+      "O método de {tempo} para {resultado}",
+      "Antes vs Depois: {tema}",
+      "A mudança que fez toda diferença"
+    ]
+  },
+  "estruturas_carrossel": {
+    "educativo": {
+      "slides": [
+        "1. Capa: Título impactante + promessa",
+        "2. Problema/contexto",
+        "3-7. Conteúdo principal (1 ideia por slide)",
+        "8. Resumo/key takeaways",
+        "9. CTA: Salvar + seguir + compartilhar"
+      ]
+    },
+    "storytelling": {
+      "slides": [
+        "1. Gancho emocional/curioso",
+        "2. Situação inicial (antes)",
+        "3. O desafio/conflito",
+        "4-6. A jornada",
+        "7. Resolução (depois)",
+        "8. Lição aprendida",
+        "9. CTA + pergunta"
+      ]
+    },
+    "lista": {
+      "slides": [
+        "1. Capa: Número + promessa",
+        "2-8. Cada item da lista (1 por slide)",
+        "9. Resumo + CTA"
+      ]
+    },
+    "antes_depois": {
+      "slides": [
+        "1. Resultado final (hook)",
+        "2. Onde comecei",
+        "3. O que tentei (erros)",
+        "4. O que funcionou",
+        "5-7. Passos específicos",
+        "8. Onde estou agora",
+        "9. CTA"
+      ]
+    }
+  },
+  "legendas": {
+    "estrutura": [
+      "🪝 Primeira linha = gancho (aparece no feed)",
+      "📝 Corpo: contexto, valor, história",
+      "💡 Dica bônus ou insight extra",
+      "❓ Pergunta de engajamento",
+      "📌 CTA claro (salvar, comentar, compartilhar)",
+      "#️⃣ Hashtags (10-20 relevantes)"
+    ],
+    "ganchos_legenda": [
+      "Pare tudo e leia isso 👇",
+      "Eu precisava ouvir isso hoje...",
+      "Isso mudou meu jogo:",
+      "Ninguém fala sobre isso, mas...",
+      "Confissão: eu estava errado sobre...",
+      "O algoritmo não quer que você saiba...",
+      "Se você está {emoção}, leia isso:"
+    ]
+  },
+  "ctas_instagram": {
+    "save": [
+      "Salve para não perder! 📌",
+      "Salve este post para consultar depois",
+      "📌 Salva aí para quando precisar!",
+      "Salve e me agradeça depois"
+    ],
+    "share": [
+      "Compartilhe com quem precisa ver isso",
+      "Marca aquele amigo que {ação}",
+      "Envia no direct para alguém especial",
+      "Compartilhe nos stories 🔄"
+    ],
+    "comment": [
+      "Comenta abaixo: você concorda?",
+      "Qual seu favorito? Me conta 👇",
+      "Já passou por isso? Conta aqui",
+      "Comenta '{palavra}' que te envio o link"
+    ],
+    "follow": [
+      "Siga para mais conteúdo sobre {tema}",
+      "Te vejo no próximo post 🚀",
+      "Siga @{usuario} para dicas diárias",
+      "Não perde o próximo post!"
+    ]
+  },
+  "hashtags_estrategia": {
+    "quantidade": "10-20 hashtags (Instagram oficial diz 3-5, teste mostra 10-20 melhor)",
+    "mix": [
+      "3-5 hashtags grandes (1M+ posts)",
+      "5-10 hashtags médias (100K-1M posts)",
+      "3-5 hashtags nichadas (<100K posts)"
+    ],
+    "categorias": [
+      "#HashtagDoNicho",
+      "#HashtagDoConteudo",
+      "#HashtagDaComunidade",
+      "#HashtagDeMarca",
+      "#HashtagTrending"
+    ]
+  },
+  "reels_hooks": [
+    "Espera até o final... 😱",
+    "Isso vai explodir sua mente 🤯",
+    "Por que ninguém me contou isso antes?",
+    "O segredo que {pessoa} não quer que você saiba",
+    "3 segundos que vão mudar como você {ação}",
+    "Pare de fazer isso AGORA! 🛑",
+    "O erro que 99% cometem em {tema}"
+  ],
+  "melhores_praticas": [
+    "Poste quando seu público está ativo (veja Insights)",
+    "Stories diários mantêm engajamento",
+    "Reels = maior alcance orgânico",
+    "Carrosséis = maior tempo de tela + saves",
+    "Responda comentários em até 1h",
+    "Use áudio trending em Reels",
+    "Legendas em vídeos (80% assistem sem som)",
+    "Consistência > perfeição",
+    "Interaja com contas do nicho 15min antes/depois de postar"
+  ],
+  "metricas": {
+    "alcance": "1000+ (bom), 10000+ (viral)",
+    "engajamento": "3-6% (bom), 6%+ (excelente)",
+    "saves": "50+ (bom), 200+ (viral)",
+    "shares": "20+ (bom), 100+ (viral)"
+  }
+}
